@@ -1,1 +1,2 @@
 # my-site
+Hello! It is my personal page. There are information about my education. May be I will want to read it. And it is funny to write about every day when I am study. I think that to know new information very interesting, but sometimes it is difficult. Now I am studding to work in HTML and CSS. 
